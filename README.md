@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @MutaharShaik, a passionate Data Quality Analyst Expertise in data Migration and Transforming data into actionable business insights.<br>- 👀 I’m enthusiastic about Data Engineering, Data Analytics, AI/ML, and Data Science.<br>- <br>- 📫 Reach me at mutahar.oct12@gmail.com
+- 👋 Hi, I’m @MutaharShaik, a passionate Data Quality Analyst Expertise in data Migration and Transforming data into actionable business insights.<br>- 👀 I’m enthusiastic about Data Engineering, Data Analytics, AI/ML, and Data Science.<br>- 📫 Reach me at mutahar.oct12@gmail.com
 
 
 
