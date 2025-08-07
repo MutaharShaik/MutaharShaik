@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m **@MutaharShaik** — a passionate **Data Analytics Engineer** with 6+ years of experience in building scalable ETL pipelines, enabling cloud-native data migration, and delivering business insights with predictive analytics.<br>
+👋 Hi, I’m **@MutaharShaik** — With 6+ years of experience in **Data Engineer** and **Sr Data Analyst** roles with  in building scalable ETL pipelines, enabling cloud-native data migration, and delivering business insights with predictive analytics.<br>
 🔍 I specialize in **Python, PySpark, SQL**, and deploying solutions across **AWS** and **GCP**.<br>
 📊 Skilled in **data visualization** using **Power BI** and **Tableau**, and delivering **end-to-end data engineering pipelines** with a strong focus on performance, automation, and quality.<br>
 📫 Reach me at: **mutahar.oct12@gmail.com**
