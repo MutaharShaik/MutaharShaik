@@ -24,8 +24,8 @@ I am passionate about solving data quality challenges, automation, and building 
 - **[DataEngineering-portfolio](#)** – End-to-end cloud ETL/ELT architectures, pipeline designs, & reusable components  
 - **[Airflow Retail Pipeline (BigQuery + dbt + Soda)](#)** – Retail analytics pipeline with automated data quality  
 ### 📊 Analytics & Visualization  
-- **[dashboard-portfolio](#)** – Power BI & Tableau dashboards  
-- **[Impact of Covid-19 on Digital Learning](#)** – Storytelling visualization project  
+- **[dashboard-portfolio](#)** – Power BI, Excel & Tableau dashboards  
+- **[Impact of Covid-19 on Digital Learning](#)** – Storytelling visualization project using python, matplotlib, seaborn 
 ### 🧪 Data Quality & Governance  
 - **[Clustering Profiles using Data Quality Metrics](#)** – ML-based profiling for assessing data trust  
 - **[Improving Data Quality Metrics](#)** – Framework covering completeness, validity, and uniqueness  
@@ -38,8 +38,8 @@ I am passionate about solving data quality challenges, automation, and building 
 
 ## 🎓 Certifications  
 - 🏅 Google Cloud Professional Data Engineer  
-- 📊 Microsoft PL-300: Power BI Data Analyst  
-- ☁️ Microsoft DP-600: Fabric Analytics Engineer  
+- 🏅 Microsoft PL-300: Power BI Data Analyst  
+- 🏅 Microsoft DP-600: Fabric Analytics Engineer  
 
 ---
 
