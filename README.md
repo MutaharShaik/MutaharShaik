@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 About Me  
-I am a Data Engineer & Senior Data Analyst with 6+ years of experience designing scalable ETL/ELT pipelines, building modern data lakehouse architectures, and implementing cloud-based data platforms.  
+I'm a ***Data Engineer & Senior Data Analyst*** with 6+ years of experience designing scalable ETL/ELT pipelines, building modern data lakehouse architectures, and implementing cloud-based data platforms.  
 My expertise spans GCP, AWS, Azure Fabric, and large-scale analytics engineering.  
 I am passionate about solving data quality challenges, automation, and building reliable, high-performing data systems.
 
