@@ -11,10 +11,10 @@ My expertise spans GCP, AWS, Azure Fabric, and large-scale analytics engineering
 I am passionate about solving data quality challenges, automation, and building reliable, high-performing data systems.
 
 **💻 Programming:** Python • SQL • Unix/Shell  
-**☁️ Cloud Platforms:** Google Cloud (BigQuery, Pub/Sub, Dataproc, Dataflow) • AWS (S3, EMR, Glue, Athena, Redshift) • Azure Fabric • Snowflake • SSIS • Alteryx  
+**☁️ Cloud Platforms:** Google Cloud (BigQuery, Pub/Sub, Dataproc, Dataflow) • AWS (S3, EMR, Glue, Athena, Redshift) • Databricks • Azure Fabric • Snowflake • SSIS • Alteryx  
 **🗄️ Databases:** MySQL • PostgreSQL • SQL Server • Teradata • MongoDB  
 **📊 Reporting / Visualization:** Power BI • Tableau • SSRS • MS Excel • Matplotlib • Plotly • Seaborn  
-**⚙️ Frameworks & Tools:** Apache Spark • dbt • Airflow • Hadoop • Flask • Soda • Great Expectations  
+**⚙️ Frameworks & Tools:** Apache Spark • AWS cloud Pipeline • dbt • Airflow • Hadoop • Flask • Soda • Great Expectations  
 **🚀 CI/CD & DevOps:** GitHub • GitHub Actions • Docker • Kubernetes • Terraform
 
 ---
